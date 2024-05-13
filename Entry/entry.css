@@ -1,0 +1,44 @@
+html, body{
+	height: 100%;
+	margin: 0;
+}
+
+.background
+{
+	background-color: #D4C8AF;
+	height: 100%;
+	padding: 25px 50px;
+}
+
+h1, h2{
+	font-family: "Herculanum", sans-serif;
+}
+
+label, form{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18px;
+}
+
+a{
+	font-family: "Herculanum", sans-serif;
+	text-decoration: none;
+	color: black;
+}
+
+button {
+  	background-color: #9EBDE3;
+  	padding: 10px 10px;
+  	font-size: 20px;
+  	margin-right: 15px;
+}
+
+input[type=submit]{
+	font-family: "Herculanum", sans-serif;
+	background-color: #9EBDE3;
+  	padding: 10px 10px;
+  	font-size: 20px;
+}
+
+th, tr, td{
+	font-family: 'Josefin Sans', sans-serif;
+}
